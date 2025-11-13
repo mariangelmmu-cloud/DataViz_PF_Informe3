@@ -1,0 +1,14 @@
+dash
+dash-bootstrap-components
+plotly
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+joblib
+cloudpickle
+Flask
+itsdangerous
+gunicorn
