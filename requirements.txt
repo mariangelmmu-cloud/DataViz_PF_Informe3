@@ -5,7 +5,7 @@ pandas
 numpy
 seaborn
 matplotlib
-scikit-learn
+scikit-learn=1.6.1
 xgboost
 joblib
 cloudpickle
